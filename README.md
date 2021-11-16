@@ -8,8 +8,6 @@ This Repo was cloned from https://github.com/jesperorb/json-server-heroku
 
 * [**Create your database**](#create-your-database)
 * [Deploy to **Heroku**](#deploy-to-heroku)
-* [Deploy to **Glitch**](#deploy-to-glitch)
-* [Deploy to **Azure**](#deploy-to-azure)
 
 ## Create your database
 
