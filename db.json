@@ -1,16 +1,22 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "text": "Pulire camera",
+      "day": "27 febbraio",
+      "reminder": false,
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "text": "Rubare bicicletta",
+      "day": "domani a pranzo",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Non fare niente",
+      "day": "sempre",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
