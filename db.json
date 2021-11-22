@@ -2,19 +2,19 @@
   "tasks": [
     {
       "text": "Pulire camera",
-      "day": "27 febbraio",
+      "day": "27 febbraio 15:30",
       "reminder": false,
       "id": 1
     },
     {
-      "text": "Rubare bicicletta",
-      "day": "domani a pranzo",
+      "text": "Aggiustare bicicletta",
+      "day": "18 aprile 00:00",
       "reminder": true,
       "id": 2
     },
     {
       "text": "Non fare niente",
-      "day": "sempre",
+      "day": "22/11/2021 16:20",
       "reminder": false,
       "id": 3
     }
