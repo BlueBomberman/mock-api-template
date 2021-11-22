@@ -83,6 +83,26 @@ heroku open
 heroku logs --tail
 ```
 
+### update deploy
+
+follow [this guide](https://dev.to/jessesbyers/how-to-update-a-deployed-app-on-heroku-3fde)
+
+1 . Login
+```bash
+heroku login
+```
+
+2 . Set remote
+```bash
+heroku git:remote -a <YOUR PROJECT NAME>
+```
+
+1 . Push master to deploy updates
+```bash
+git push heroku master
+```
+
+
 ---
 
 #### How it works
